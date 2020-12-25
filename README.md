@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piumalns&count_private=true&theme=radical)
+[![Ns piumal's github stats](https://github-readme-stats.vercel.app/api?username=piumalns&include_all_commits=true&show_icons=true&theme=dark&count_private=true)](https://github.com/ChanakaUOMIT)
 
 <!-- [![Dulanga Heshan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9216423&theme=dark&layout=default)](https://stackoverflow.com/users/9216423/dulanga-heshan) -->
 
