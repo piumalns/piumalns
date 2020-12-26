@@ -13,7 +13,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌍 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
-  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic&logoColor=3880FF)
   ![.net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=.net&logoColor=5C2D91)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,7 +26,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🛠 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
@@ -35,7 +33,3 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp&logoColor=FB7A24)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🎨 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
